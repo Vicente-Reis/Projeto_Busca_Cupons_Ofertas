@@ -1,7 +1,6 @@
 # Projeto_Busca_Cupons_Ofertas
 ## Descrição completa da ferramenta de Busca de Cupons de Ofertas 
 
-## Descrição Completa da Ferramenta de Busca de Cupons
 
 **Introdução**
 
