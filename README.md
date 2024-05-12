@@ -55,4 +55,17 @@ A Ferramenta de Busca de Cupons se configura como uma solução inovadora, prát
 
 * Projeto em desenvolvimento de melhorias colaborativas as suas funcionalidades na busca de CUPONS de ofertas na internet
 
+### Contribuição:
+
+Este projeto é aberto a contribuições. Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
+
+### Agradecimentos:
+
+Agradecemos à equipe da Imersão Alura Google por proporcionar esta oportunidade de aprendizado e desenvolvimento de habilidades em inteligência artificial e programação.
+
+---
+
+Esse é um exemplo básico de como um README.md pode ser elaborado para um projeto como esse.
+
+
 
