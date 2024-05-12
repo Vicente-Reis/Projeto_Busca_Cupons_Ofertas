@@ -68,4 +68,11 @@ Agradecemos à equipe da Imersão Alura Google por proporcionar esta oportunidad
 Esse é um exemplo básico de como um README.md pode ser elaborado para um projeto como esse.
 
 
+!-- Background Image -->
+<p align="center">
+  <img src="https://github.com/Vicente-Reis/vr_imagens/blob/main/melhores_descontos_internet.jpg" alt="Background Image" />
+</p>        
+
+
+
 
