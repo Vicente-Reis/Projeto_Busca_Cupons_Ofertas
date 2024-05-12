@@ -1,3 +1,8 @@
+<!-- Background Image -->
+<p align="center">
+  <img src="https://github.com/Vicente-Reis/vr_imagens/blob/main/imagem_ilustrativa_cupom00.jpg"alt="Background Image" />
+</p>
+
 # Projeto_Busca_Cupons_Ofertas
 ## Descrição completa da ferramenta de Busca de Cupons de Ofertas 
 
